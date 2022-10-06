@@ -1,0 +1,15 @@
+C:\duda\Sistema Hoteleiro\Hotel-FFP\bin\Debug\Hotel-FFP.exe.config
+C:\duda\Sistema Hoteleiro\Hotel-FFP\bin\Debug\Hotel-FFP.exe
+C:\duda\Sistema Hoteleiro\Hotel-FFP\bin\Debug\Hotel-FFP.pdb
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel-FFP.csprojResolveAssemblyReference.cache
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel_FFP.frLogin.resources
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel_FFP.Properties.Resources.resources
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel-FFP.csproj.GenerateResource.Cache
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel-FFP.exe
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel-FFP.pdb
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel_FFP.frMenuPrincipal.resources
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel_FFP.Cadastros.frFuncionarios.resources
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel_FFP.Cadastros.frCargos.resources
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel_FFP.Cadastros.frProdutos.resources
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel_FFP.Cadastros.frUsuarios.resources
+C:\duda\Sistema Hoteleiro\Hotel-FFP\obj\Debug\Hotel_FFP.Cadastros.frFornecedores.resources
